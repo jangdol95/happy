@@ -11,5 +11,7 @@
 </head>
 <body>
 	<h1>하이염</h1>
+	
+	<input type="button" value="안녕">
 </body>
 </html>
